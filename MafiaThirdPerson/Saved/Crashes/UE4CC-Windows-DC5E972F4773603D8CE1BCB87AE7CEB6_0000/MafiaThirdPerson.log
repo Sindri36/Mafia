@@ -1,0 +1,1451 @@
+﻿Log file open, 10/11/22 09:53:54
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: MafiaThirdPerson
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.275458
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +0:00, Platform Override: ''
+LogInit: Display: Loading text-based GConfig....
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin OodleNetwork
+LogPluginManager: Mounting plugin OodleData
+LogPluginManager: Mounting plugin GameplayCameras
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin PixWinPlugin
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin TextureFormatOodle
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin OpenImageDenoise
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin PythonScriptPlugin
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin OpenXR
+LogPluginManager: Mounting plugin OpenXREyeTracker
+LogPluginManager: Mounting plugin OpenXRHandTracking
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin Takes
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogOculusPluginWrapper: OculusPlugin initialized successfully
+LogHMD: Failed initializing OVRPlugin 1.59.0
+LogInit: Build: ++UE4+Release-4.27-CL-18319896
+LogInit: Engine Version: 4.27.2-18319896+++UE4+Release-4.27
+LogInit: Compatible Engine Version: 4.27.0-17155196+++UE4+Release-4.27
+LogInit: Net CL: 17155196
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11800H @ 2.30GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): Nov 30 2021 07:12:08
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.27
+LogInit: Command Line:  -EpicPortal -epicusername="Onii Chan Senpai" -epicuserid=9243191f1f1242a990d521071e7717bc -epiclocale=en -epicsandboxid=ue
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.27/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 14
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 47
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2022.10.11-09.53.54:727][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2022.10.11-09.53.54:727][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2022.10.11-09.53.54:728][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:728][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:739][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.11-09.53.54:739][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2022.10.11-09.53.54:740][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.11-09.53.54:740][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2022.10.11-09.53.54:740][  0]LogHAL: Display: Platform has ~ 16 GB [16866881536 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.11-09.53.54:740][  0]LogInit: Going up to parent DeviceProfile []
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:10.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:6]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:4096]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:4096]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:16]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.GTAO.Numangles:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:4]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:1000]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.LensFlareQuality:3]]
+[2022.10.11-09.53.54:740][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:1       ; bokeh simulation when gathering]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:5                 ; high number of samples when gathering]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; background scattering occlusion]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; no bokeh simulation when scattering]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.25        ; only a maximum of 10% of scattered bokeh]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:2                ; highest slight out of focus]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:1    ; bokeh simulation on slight out of focus]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Applying CVar settings from Section [TextureQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:3000]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSR.Quality:4]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SSGI.Quality:4]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:8]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:32.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:256.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:8.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:256.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:30.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:20.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.SkyLight.RealTimeReflectionCapture:1]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@Cine] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Scalability.ini]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:0]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:8]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:8]]
+[2022.10.11-09.53.54:741][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.11-09.53.54:742][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2022.10.11-09.53.54:742][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2022.10.11-09.53.54:742][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2022.10.11-09.53.54:742][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Engine.ini]
+[2022.10.11-09.53.54:742][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Config/Windows/Editor.ini]
+[2022.10.11-09.53.54:742][  0]LogInit: Computer: MSI
+[2022.10.11-09.53.54:742][  0]LogInit: User: magnu
+[2022.10.11-09.53.54:742][  0]LogInit: CPU Page size=4096, Cores=8
+[2022.10.11-09.53.54:742][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.11-09.53.54:742][  0]LogMemory: Memory total: Physical=15.7GB (16GB approx)
+[2022.10.11-09.53.54:742][  0]LogMemory: Platform Memory Stats for Windows
+[2022.10.11-09.53.54:742][  0]LogMemory: Process Physical Memory: 149.50 MB used, 149.50 MB peak
+[2022.10.11-09.53.54:742][  0]LogMemory: Process Virtual Memory: 131.80 MB used, 131.80 MB peak
+[2022.10.11-09.53.54:742][  0]LogMemory: Physical Memory: 12876.47 MB used,  3209.04 MB free, 16085.51 MB total
+[2022.10.11-09.53.54:742][  0]LogMemory: Virtual Memory: 134209128.00 MB used,  8597.62 MB free, 134217728.00 MB total
+[2022.10.11-09.53.54:774][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.11-09.53.54:810][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2022.10.11-09.53.54:811][  0]LogInit: Using OS detected language (en-US).
+[2022.10.11-09.53.54:811][  0]LogInit: Using OS detected locale (en-US).
+[2022.10.11-09.53.54:815][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2022.10.11-09.53.54:963][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.11-09.53.54:978][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2022.10.11-09.53.54:990][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.11-09.53.54:990][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.11-09.53.55:082][  0]LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+[2022.10.11-09.53.55:129][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.11-09.53.55:129][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2022.10.11-09.53.55:129][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2022.10.11-09.53.55:129][  0]LogD3D11RHI: D3D11 adapters:
+[2022.10.11-09.53.55:239][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3050 Ti Laptop GPU' (Feature Level 11_0)
+[2022.10.11-09.53.55:239][  0]LogD3D11RHI:       3990/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2022.10.11-09.53.55:277][  0]LogD3D11RHI:    1. 'Intel(R) UHD Graphics' (Feature Level 11_0)
+[2022.10.11-09.53.55:277][  0]LogD3D11RHI:       128/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:       0/0/8042 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI: Chosen D3D11 Adapter:
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     SubSysId    : 12ec1462
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     SharedSystemMemory : 8433440768 bytes
+[2022.10.11-09.53.55:279][  0]LogD3D11RHI:     AdapterLuid : 0 68813
+[2022.10.11-09.53.55:285][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2022.10.11-09.53.55:285][  0]LogD3D11RHI:     GPU DeviceId: 0x25a0 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.11-09.53.55:285][  0]LogWindows: EnumDisplayDevices:
+[2022.10.11-09.53.55:285][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1)
+[2022.10.11-09.53.55:285][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.10.11-09.53.55:286][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.10.11-09.53.55:286][  0]LogWindows:    3. 'Intel(R) UHD Graphics' (P:0 D:0)
+[2022.10.11-09.53.55:286][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:      Driver Date: Unknown
+[2022.10.11-09.53.55:286][  0]LogRHI: Texture pool is 2793 MB (70% of 3990 MB)
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI: Creating D3DDevice using adapter:
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     Description : NVIDIA GeForce RTX 3050 Ti Laptop GPU
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     VendorId    : 10de
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     DeviceId    : 25a0
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     SubSysId    : 12ec1462
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     Revision    : 00a1
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     DedicatedVideoMemory : 4183818240 bytes
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     DedicatedSystemMemory : 0 bytes
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     SharedSystemMemory : 8433440768 bytes
+[2022.10.11-09.53.55:286][  0]LogD3D11RHI:     AdapterLuid : 0 68813
+[2022.10.11-09.53.55:350][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2022.10.11-09.53.55:350][  0]LogD3D11RHI: Async texture creation enabled
+[2022.10.11-09.53.55:350][  0]LogD3D11RHI: Array index from any shader is supported
+[2022.10.11-09.53.55:379][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2022.10.11-09.53.55:405][  0]LogRHI: GeForceNow SDK initialized: 1
+[2022.10.11-09.53.55:711][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2022.10.11-09.53.55:738][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.11-09.53.55:739][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.11-09.53.55:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.11-09.53.55:761][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.11-09.53.55:769][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.11-09.53.55:773][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2022.10.11-09.53.55:778][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.11-09.53.55:783][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.11-09.53.55:793][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2022.10.11-09.53.55:797][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2022.10.11-09.53.55:801][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2022.10.11-09.53.55:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2022.10.11-09.53.55:826][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2022.10.11-09.53.55:834][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2022.10.11-09.53.55:838][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2022.10.11-09.53.55:842][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2022.10.11-09.53.55:845][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2022.10.11-09.53.55:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.11-09.53.55:856][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.11-09.53.55:865][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2022.10.11-09.53.55:869][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.11-09.53.55:873][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.11-09.53.55:878][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.11-09.53.55:878][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2022.10.11-09.53.55:885][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.11-09.53.55:914][  0]LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2022.10.11-09.53.55:944][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.11-09.53.55:944][  0]LogShaderCompilers: Guid format shader working directory is -65 characters bigger than the processId version (../../../../../../Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Intermediate/Shaders/WorkingDirectory/1820/).
+[2022.10.11-09.53.55:944][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/magnu/AppData/Local/Temp/UnrealShaderWorkingDir/D0E65831476E2D2BA87A49BBA4EB6981/'.
+[2022.10.11-09.53.55:944][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.11-09.53.55:944][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2022.10.11-09.53.55:944][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2022.10.11-09.53.56:680][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2022.10.11-09.53.57:157][  0]LogDerivedDataCache: Loaded boot cache 0.18s 94MB C:/Users/magnu/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.11-09.53.57:257][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/magnu/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2022.10.11-09.53.57:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.11-09.53.57:257][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2022.10.11-09.53.57:257][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.11-09.53.57:257][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2022.10.11-09.53.57:270][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2022.10.11-09.53.57:270][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.11-09.53.57:270][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2022.10.11-09.53.57:677][  0]LogDerivedDataCache: Speed tests for C:/Users/magnu/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.41 seconds
+[2022.10.11-09.53.57:677][  0]LogDerivedDataCache: Display: Performance to C:/Users/magnu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.02ms. RandomReadSpeed=337.42MBs, RandomWriteSpeed=2.30MBs. Assigned SpeedClass 'Local'
+[2022.10.11-09.53.57:678][  0]LogDerivedDataCache: Using Local data cache path C:/Users/magnu/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.11-09.53.57:678][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.11-09.53.57:678][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2022.10.11-09.53.57:732][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.11-09.53.57:732][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.11-09.53.57:758][  0]LogAssetRegistry: FAssetRegistry took 0.0030 seconds to start up
+[2022.10.11-09.53.57:989][  0]LogInit: Selected Device Profile: [Windows]
+[2022.10.11-09.53.57:989][  0]LogInit: Active device profile: [0000016379D32C00][00000163795BB140 49] Windows
+[2022.10.11-09.53.57:989][  0]LogInit: Profiles: [0000016379D32C00][00000163795BB140 49] Windows, [0000016379CA5800][00000163795B73C0 49] WindowsNoEditor, [0000016379D32100][00000163781AB680 49] WindowsServer, [0000016379CA6200][00000163781AF940 49] WindowsClient, [0000016379D31B00][00000163781B3C00 49] IOS, [0000016379CA5100][00000163781B6340 49] iPadAir, [0000016379D30800][00000163781BA600 49] iPadAir2, [0000016379C25300][0000016379364B40 49] IPadPro, [0000016379C25400][00000163712A8B80 49] iPadAir3, [0000016379CA6100][00000163712B0E40 49] iPadAir4, [0000016379C26200][00000163712AD100 49] iPadMini2, [0000016379CA4200][00000163781A7380 49] iPadMini3, [0000016379C26E00][000001636972F640 49] iPadMini4, [0000016379CA6B00][0000016369733900 49] iPadMini5, [0000016379C48A00][000001637B8DC2C0 49] iPhone6, [0000016379C48B00][00000163795A2300 49] iPodTouch6, [0000016379D32500][000001637B920840 49] iPhone7, [0000016379D32600][00000163795B2880 49] iPodTouch7, [0000016379C48100][000001637ACA0B40 49] iPhone5S, [0000016379C25A00][00000163795AEE00 49] iPhone6Plus, [0000016379C4BA00][000001637B91D0C0 49] iPhone6S, [0000016379C24600][0000016379361340 49] iPhone6SPlus, [0000016379C4AF00][00000163752315C0 49] iPhone7Plus, [0000016379C25100][0000016375239880 49] iPhoneSE, [0000016379C4A900][000001637523DB40 49] iPhone8, [0000016379C25C00][0000016375240280 49] iPhone8Plus, [0000016379C4A500][0000016375244540 49] iPhoneX, [0000016379C26800][000001637522C800 49] iPhoneXS, [0000016379C4B700][000001637B924AC0 49] iPhoneXSMax, [0000016379C27700][0000016375254D80 49] iPhoneXR, [0000016379C4AE00][0000016375259040 49] iPhone11, [0000016379D33700][000001637525D300 49] iPhone11Pro, [0000016379C49B00][0000016375235580 49] iPhone11ProMax, [0000016379D32400][0000016375261800 49] iPhoneSE2, [0000016379C4BF00][0000016375269AC0 49] iPhone12Mini, [0000016379D33B00][000001637526C200 49] iPhone12, [0000016379C48900][00000163752704C0 49] iPhone12Pro, [0000016379D33400][0000016375274780 49] iPhone12ProMax, [0000016379C4B500][0000016375278A40 49] iPadPro105, [0000016379D33100][000001637527CD00 49] iPadPro129, [0000016379C49700][0000016375280FC0 49] iPadPro97, [0000016379D30D00][0000016375285280 49] iPadPro2_129, [0000016379C4AB00][0000016375289540 49] iPad5, [0000016379D32700][00000163752657C0 49] iPad6, [0000016379C4B300][000001637528DA40 49] iPad7, [0000016379D33500][0000016375294180 49] iPad8, [0000016379C4A800][0000016379506440 49] iPadPro11, [0000016379D31600][000001637B928700 49] iPadPro2_11, [0000016379C48500][000001637B92C9C0 49] iPadPro3_129, [0000016379D32E00][000001637B930C80 49] iPadPro4_129, [0000016379C4A000][00000163795CCF40 49] AppleTV, [0000016379D30900][00000163799DB200 49] AppleTV4K, [0000016379C49900][00000163799CB4C0 49] TVOS, [0000016379D30600][000001637529B780 49] Mac, [0000016379C4AD00][0000016375291A00 49] MacClient, [0000016379D31E00][00000163750B2100 49] MacNoEditor, [0000016379C4B900][00000163780F23C0 49] MacServer, [0000016379D31400][00000163780F6680 49] Linux, [0000016379C49600][00000163780FA940 49] LinuxAArch64, [0000016379D31800][00000163780FEC00 49] LinuxNoEditor, [0000016379C48C00][0000016378102EC0 49] LinuxAArch64NoEditor, [0000016379D30300][0000016378107180 49] LinuxClient, [0000016379C4A700][000001637810B440 49] LinuxAArch64Client, [0000016379D31900][000001637810F700 49] LinuxServer, [0000016379C4A100][00000163781139C0 49] LinuxAArch64Server, [0000016379D30F00][00000163750B60C0 49] Android, [0000016379C48300][0000016378116340 49] Android_Low, [0000016379D30100][000001637B938600 49] Android_Mid, [0000016379C48600][000001637B93C8C0 49] Android_High, [0000016379D32F00][000001637B940B80 49] Android_Default, [0000016379C48400][000001637B944E40 49] Android_Adreno4xx, [0000016379D31A00][000001637B949100 49] Android_Adreno5xx_Low, [0000016379C4A300][000001637B94D3C0 49] Android_Adreno5xx, [0000016379D32B00][000001637B951680 49] Android_Adreno6xx, [0000016379C48E00][000001637B955940 49] Android_Adreno6xx_Vulkan, [0000016379D30400][000001637B959C00 49] Android_Mali_T6xx, [0000016379CA6D00][000001637B934300 49] Android_Mali_T7xx, [0000016379C24F00][000001637B95C580 49] Android_Mali_T8xx, [0000016379CA5F00][000001637950A840 49] Android_Mali_G71, [0000016379C24900][000001637950EB00 49] Android_Mali_G72, [0000016379CA4A00][0000016379512DC0 49] Android_Mali_G72_Vulkan, [0000016379C27B00][0000016379517080 49] Android_Mali_G76, [0000016379CA7F00][000001637951B340 49] Android_Mali_G76_Vulkan, [0000016379C26000][000001637951F600 49] Android_Mali_G77, [0000016379CA6800][00000163795238C0 49] Android_Mali_G77_Vulkan, [0000016379C26100][0000016379527B80 49] Android_Mali_G78, [0000016379CA5700][000001637952A2C0 49] Android_Mali_G78_Vulkan, [0000016379C25900][000001637B960540 49] Android_Mali_G710, [0000016379CA5600][000001637952E7C0 49] Android_Mali_G710_Vulkan, [0000016379C24D00][0000016379536A80 49] Android_Vulkan_SM5, [0000016379CA7D00][000001637953AD40 49] Android_PowerVR_G6xxx, [0000016379C25000][000001637953F000 49] Android_PowerVR_GT7xxx, [0000016379CA4D00][00000163795432C0 49] Android_PowerVR_GE8xxx, [0000016379C27800][0000016379547580 49] Android_PowerVR_GM9xxx, [0000016379CA5B00][000001637954B840 49] Android_PowerVR_GM9xxx_Vulkan, [0000016379C24100][000001637954FB00 49] Android_TegraK1, [0000016379CA6900][0000016379552240 49] Android_Unknown_Vulkan, [0000016379C27300][0000016379556500 49] Lumin, [0000016379CA5A00][0000016379532780 49] Lumin_Desktop, [0000016379C27D00][000001637955AA00 49] HoloLens, 
+[2022.10.11-09.53.58:111][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.11-09.53.58:111][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.11-09.53.58:111][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.11-09.53.58:111][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.11-09.53.58:111][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.11-09.53.58:127][  0]LogNetVersion: MafiaThirdPerson 1.0.0, NetCL: 17155196, EngineNetVer: 17, GameNetVer: 0 (Checksum: 2339536633)
+[2022.10.11-09.53.58:505][  0]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/DaylightAmbientCubemap.DaylightAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.11-09.53.58:560][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2022.10.11-09.53.58:565][  0]LogUObjectArray: 17178 objects as part of root set at end of initial load.
+[2022.10.11-09.53.58:565][  0]LogUObjectAllocator: 4302048 out of 0 bytes used by permanent object pool.
+[2022.10.11-09.53.58:565][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.11-09.53.58:860][  0]LogPython: Using Python 3.7.7
+[2022.10.11-09.53.59:331][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 608A74E94CD54FF2DC218FAF8BD4853F | Instance: A157A4DC449CBDBC367ED7B36C4DDA91 (MSI-1820).
+[2022.10.11-09.53.59:380][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.11-09.53.59:390][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.11-09.53.59:516][  0]SourceControl: Source control is disabled
+[2022.10.11-09.53.59:516][  0]SourceControl: Source control is disabled
+[2022.10.11-09.53.59:525][  0]SourceControl: Source control is disabled
+[2022.10.11-09.53.59:534][  0]SourceControl: Source control is disabled
+[2022.10.11-09.53.59:565][  0]SourceControl: Source control is disabled
+[2022.10.11-09.53.59:578][  0]LogUProjectInfo: Found projects:
+[2022.10.11-09.53.59:692][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.11-09.53.59:735][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.11-09.53.59:754][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-09.53.59:754][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.11-09.53.59:882][  0]LogCollectionManager: Loaded 0 collections in 0.001654 seconds
+[2022.10.11-09.53.59:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Saved/Collections/' took 0.00s
+[2022.10.11-09.53.59:903][  0]LogFileCache: Scanning file cache for directory 'C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Content/Developers/magnu/Collections/' took 0.00s
+[2022.10.11-09.53.59:904][  0]LogFileCache: Scanning file cache for directory 'C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Content/Collections/' took 0.00s
+[2022.10.11-09.53.59:904][  0]LogOcInput: OculusInput pre-init called
+[2022.10.11-09.54.00:146][  0]LogEngine: Initializing Engine...
+[2022.10.11-09.54.00:272][  0]LogHMD: Failed to enumerate extensions. Please check that you have a valid OpenXR runtime installed.
+[2022.10.11-09.54.00:272][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2022.10.11-09.54.00:272][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2022.10.11-09.54.00:273][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.11-09.54.00:368][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.11-09.54.00:376][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.11-09.54.00:387][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.11-09.54.00:391][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.11-09.54.00:391][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.11-09.54.00:391][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.11-09.54.00:392][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.11-09.54.00:392][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.11-09.54.00:392][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.11-09.54.00:392][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.11-09.54.00:392][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.11-09.54.00:392][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.11-09.54.00:431][  0]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.11-09.54.00:431][  0]LogAudioMixer: Display: 1: FrontRight
+[2022.10.11-09.54.00:745][  0]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.10.11-09.54.00:747][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.11-09.54.00:749][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.11-09.54.00:749][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.11-09.54.00:750][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.11-09.54.00:750][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.11-09.54.00:750][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.11-09.54.00:750][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.11-09.54.00:750][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.11-09.54.00:750][  0]LogInit: FAudioDevice initialized.
+[2022.10.11-09.54.00:750][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.11-09.54.00:750][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.11-09.54.01:108][  0]LogDerivedDataCache: Saved boot cache 0.36s 94MB C:/Users/magnu/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc.
+[2022.10.11-09.54.01:109][  0]LogInit: Texture streaming: Enabled
+[2022.10.11-09.54.01:119][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.27.2-18319896+++UE4+Release-4.27
+[2022.10.11-09.54.01:123][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.11-09.54.01:123][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2022.10.11-09.54.01:125][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2022.10.11-09.54.01:170][  0]LogInit: Transaction tracking system initialized
+[2022.10.11-09.54.01:193][  0]BlueprintLog: New page: Editor Load
+[2022.10.11-09.54.01:246][  0]LocalizationService: Localization service is disabled
+[2022.10.11-09.54.01:268][  0]TimingProfiler: Initialize
+[2022.10.11-09.54.01:268][  0]TimingProfiler: OnSessionChanged
+[2022.10.11-09.54.01:268][  0]LoadingProfiler: Initialize
+[2022.10.11-09.54.01:268][  0]LoadingProfiler: OnSessionChanged
+[2022.10.11-09.54.01:268][  0]NetworkingProfiler: Initialize
+[2022.10.11-09.54.01:268][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.11-09.54.01:268][  0]MemoryProfiler: Initialize
+[2022.10.11-09.54.01:268][  0]MemoryProfiler: OnSessionChanged
+[2022.10.11-09.54.01:431][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2022.10.11-09.54.01:431][  0]LogCook: Display: Mobile HDR setting 1
+[2022.10.11-09.54.01:441][  0]LogFileCache: Scanning file cache for directory 'C:/Users/magnu/OneDrive - Keilir, Atlantic Center of Excellence/Documents/Mafia/MafiaThirdPerson/Content/' took 0.01s
+[2022.10.11-09.54.01:441][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.01:441][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.01:441][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.01:441][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.01:441][  0]LoadErrors: Failed to load /Game/Water/Plane.Plane Referenced by Plane
+[2022.10.11-09.54.01:442][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2022.10.11-09.54.01:808][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.11-09.54.01:811][  0]SourceControl: Source control is disabled
+[2022.10.11-09.54.01:812][  0]LogUnrealEdMisc: Loading editor; pre map load, took 8.458
+[2022.10.11-09.54.01:812][  0]LightingResults: New page: Lighting Build
+[2022.10.11-09.54.01:813][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-09.54.01:813][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-09.54.01:813][  0]MapCheck: New page: Map Check
+[2022.10.11-09.54.01:813][  0]LightingResults: New page: Lighting Build
+[2022.10.11-09.54.01:819][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-09.54.01:822][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.59ms
+[2022.10.11-09.54.02:407][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2022.10.11-09.54.02:408][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.11-09.54.02:415][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.11-09.54.02:425][  0]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2022.10.11-09.54.02:425][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.11-09.54.02:426][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.178ms to complete.
+[2022.10.11-09.54.02:426][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.614
+[2022.10.11-09.54.02:427][  0]LogUnrealEdMisc: Total Editor Startup Time, took 9.073
+[2022.10.11-09.54.02:526][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-09.54.02:532][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-09.54.02:537][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-09.54.02:542][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-09.54.02:557][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0094 seconds. Added 3822 classes and 928 folders.
+[2022.10.11-09.54.02:561][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.11-09.54.02:564][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.11-09.54.02:564][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:564][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.11-09.54.02:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:564][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPerson.upack)
+[2022.10.11-09.54.02:564][  0]LogPakFile: OnPakFileMounted2Time == 0.000045
+[2022.10.11-09.54.02:565][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.11-09.54.02:565][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:566][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.11-09.54.02:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:566][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/FP_FirstPersonBP.upack)
+[2022.10.11-09.54.02:566][  0]LogPakFile: OnPakFileMounted2Time == 0.000044
+[2022.10.11-09.54.02:567][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2022.10.11-09.54.02:567][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:567][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2022.10.11-09.54.02:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:567][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/MobileStarterContent.upack)
+[2022.10.11-09.54.02:567][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.11-09.54.02:568][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.11-09.54.02:569][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:569][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.11-09.54.02:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:569][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/StarterContent.upack)
+[2022.10.11-09.54.02:569][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.10.11-09.54.02:570][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.11-09.54.02:570][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:570][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.11-09.54.02:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:570][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScroller.upack)
+[2022.10.11-09.54.02:570][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.10.11-09.54.02:572][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.11-09.54.02:572][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:572][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.11-09.54.02:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:572][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_2DSideScrollerBP.upack)
+[2022.10.11-09.54.02:572][  0]LogPakFile: OnPakFileMounted2Time == 0.000026
+[2022.10.11-09.54.02:574][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.11-09.54.02:574][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:574][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.11-09.54.02:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:574][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Flying.upack)
+[2022.10.11-09.54.02:574][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.10.11-09.54.02:575][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.11-09.54.02:575][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:575][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.11-09.54.02:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:575][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_FlyingBP.upack)
+[2022.10.11-09.54.02:575][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:577][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.11-09.54.02:577][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:577][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.11-09.54.02:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:577][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_HandheldARBP.upack)
+[2022.10.11-09.54.02:577][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:579][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2022.10.11-09.54.02:579][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:579][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2022.10.11-09.54.02:579][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:579][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Puzzle.upack)
+[2022.10.11-09.54.02:579][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:581][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2022.10.11-09.54.02:581][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:581][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2022.10.11-09.54.02:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:581][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_PuzzleBP.upack)
+[2022.10.11-09.54.02:581][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.11-09.54.02:583][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.11-09.54.02:583][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:583][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.11-09.54.02:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:583][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Rolling.upack)
+[2022.10.11-09.54.02:583][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.11-09.54.02:584][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.11-09.54.02:584][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:584][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.11-09.54.02:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:584][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_RollingBP.upack)
+[2022.10.11-09.54.02:585][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.10.11-09.54.02:586][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.11-09.54.02:586][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:586][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.11-09.54.02:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:586][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScroller.upack)
+[2022.10.11-09.54.02:586][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.10.11-09.54.02:588][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2022.10.11-09.54.02:588][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:588][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2022.10.11-09.54.02:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:588][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_SideScrollerBP.upack)
+[2022.10.11-09.54.02:588][  0]LogPakFile: OnPakFileMounted2Time == 0.000025
+[2022.10.11-09.54.02:589][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.11-09.54.02:589][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:589][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.11-09.54.02:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:589][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPerson.upack)
+[2022.10.11-09.54.02:589][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:590][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2022.10.11-09.54.02:590][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:590][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2022.10.11-09.54.02:590][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:590][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_ThirdPersonBP.upack)
+[2022.10.11-09.54.02:590][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:591][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.11-09.54.02:591][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:591][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.11-09.54.02:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:591][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDown.upack)
+[2022.10.11-09.54.02:591][  0]LogPakFile: OnPakFileMounted2Time == 0.000028
+[2022.10.11-09.54.02:592][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.11-09.54.02:592][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:592][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.11-09.54.02:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:592][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TopDownBP.upack)
+[2022.10.11-09.54.02:592][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2022.10.11-09.54.02:593][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.11-09.54.02:593][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:593][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.11-09.54.02:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:593][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStick.upack)
+[2022.10.11-09.54.02:593][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:594][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2022.10.11-09.54.02:594][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:594][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2022.10.11-09.54.02:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:594][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_TwinStickBP.upack)
+[2022.10.11-09.54.02:594][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:595][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2022.10.11-09.54.02:595][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:595][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2022.10.11-09.54.02:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:595][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_Vehicle.upack)
+[2022.10.11-09.54.02:595][  0]LogPakFile: OnPakFileMounted2Time == 0.000027
+[2022.10.11-09.54.02:596][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2022.10.11-09.54.02:596][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:596][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2022.10.11-09.54.02:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:596][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdv.upack)
+[2022.10.11-09.54.02:596][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2022.10.11-09.54.02:597][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2022.10.11-09.54.02:597][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:597][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2022.10.11-09.54.02:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:597][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleAdvBP.upack)
+[2022.10.11-09.54.02:597][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.11-09.54.02:599][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2022.10.11-09.54.02:599][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:599][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2022.10.11-09.54.02:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:599][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VehicleBP.upack)
+[2022.10.11-09.54.02:599][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.11-09.54.02:600][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2022.10.11-09.54.02:600][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2022.10.11-09.54.02:600][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2022.10.11-09.54.02:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: PakFile 'C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack' (chunk index -1, root 'root:/') mounted
+[2022.10.11-09.54.02:600][  0]LogShaderLibrary: Display: ShaderCodeLibraryPakFileMountedCallback: pending pak file info (ChunkID:-1 Root:root:/ File:C:/Program Files/Epic Games/UE_4.27/FeaturePacks/TP_VirtualRealityBP.upack)
+[2022.10.11-09.54.02:600][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2022.10.11-09.54.02:688][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2022.10.11-09.54.02:689][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2022.10.11-09.54.02:770][  0]LogSlate: Took 0.000161 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.11-09.54.02:772][  0]LogSlate: Took 0.000797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.11-09.54.02:774][  0]LogSlate: Took 0.000240 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.11-09.54.02:857][  0]LogRenderer: Reallocating scene render targets to support 968x428 Format 10 NumSamples 1 (Frame:1).
+[2022.10.11-09.54.03:196][  0]LogSlate: Took 0.000132 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.11-09.54.03:297][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2022.10.11-09.54.03:297][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2022.10.11-09.54.03:297][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2022.10.11-09.54.03:297][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2022.10.11-09.54.03:297][  0]LogLoad: (Engine Initialization) Total time: 9.94 seconds
+[2022.10.11-09.54.03:297][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.11-09.54.03:322][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.03:322][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.03:323][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.03:323][  0]LogLinker: Warning: [AssetLog] C:\Program Files\Epic Games\UE_4.27\Engine\Content\BasicShapes\Plane.uasset: Failed to load '/Game/Water/Plane': Can't find file.
+[2022.10.11-09.54.03:323][  0]LogUObjectGlobals: Warning: Failed to find object 'StaticMesh /Engine/BasicShapes/Plane.Plane'
+[2022.10.11-09.54.03:352][  0]LogAssetRegistry: Asset discovery search completed in 5.5944 seconds
+[2022.10.11-09.54.03:357][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000004 seconds (updated 0 objects)
+[2022.10.11-09.54.03:358][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2022.10.11-09.54.03:420][  0]LogSlate: Took 0.000131 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.11-09.54.04:275][ 44]LogSlate: Took 0.000138 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.11-09.54.04:929][ 83]LogSlate: Window 'Message Log' being destroyed
+[2022.10.11-09.54.04:934][ 83]LogSlate: Window 'Message Log' being destroyed
+[2022.10.11-09.54.23:278][  5]LogSlate: Took 0.000175 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.11-09.54.23:292][  5]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\magnu\OneDrive - Keilir, Atlantic Center of Excellence\Documents\CharacterDummy1.fbx)
+[2022.10.11-09.54.23:304][  5]LogFbx: Loading FBX Scene from C:\Users\magnu\OneDrive - Keilir, Atlantic Center of Excellence\Documents\CharacterDummy1.fbx
+[2022.10.11-09.54.23:344][  5]LogFbx: FBX Scene Loaded Succesfully
+[2022.10.11-09.54.25:279][  5]LogSlate: Window 'FBX Import Options' being destroyed
+[2022.10.11-09.54.25:308][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:309][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:309][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:310][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:310][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:311][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:311][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere.001) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:312][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:312][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:312][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:313][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:313][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:313][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:314][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.001) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:314][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:314][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:315][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:315][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:315][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:315][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:316][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.002) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:316][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:317][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:317][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:317][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:318][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:318][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:319][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.041) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:319][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:319][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:320][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:320][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:320][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:320][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:321][  5]LogFbx: Warning: Not valid bind pose for Pose (Plane.046) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:321][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:321][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:322][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:322][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:322][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:322][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:323][  5]LogFbx: Warning: Not valid bind pose for Pose (Sphere) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:323][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Sphere.001 : The relative matrices do not match
+[2022.10.11-09.54.25:324][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Plane.001 : The relative matrices do not match
+[2022.10.11-09.54.25:324][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Plane.002 : The relative matrices do not match
+[2022.10.11-09.54.25:324][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Plane.041 : The relative matrices do not match
+[2022.10.11-09.54.25:324][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Plane.039 : The relative matrices do not match
+[2022.10.11-09.54.25:325][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Sphere : The relative matrices do not match
+[2022.10.11-09.54.25:325][  5]LogFbx: Warning: Not valid bind pose for Pose (Cube.002) - Node Cube.002 : The relative matrices do not match
+[2022.10.11-09.54.25:325][  5]LogFbx: Warning: Getting valid bind pose failed. Try to recreate bind pose
+[2022.10.11-09.54.25:329][  5]LogFbx: Valid bind pose for Pose (FbxSDKBindPose) - Sphere.001
+[2022.10.11-09.54.25:329][  5]LogFbx: Warning: Recreating bind pose succeeded.
+[2022.10.11-09.54.25:341][  5]LogMaterial: Display: Material /Game/Characters/Material_001.Material_001 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:343][  5]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: 08A0C70CE2EF7DF9AAB4BA38306C8F5FC4738DD8), compiling. 
+[2022.10.11-09.54.25:389][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:391][  5]LogMaterial: Display: Missing cached shadermap for Material_001 in PCD3D_SM5, Default, SM5 (DDC key hash: B9644B7F489477DD9E2C2BF176CAEB54B2C6C6FD), compiling. 
+[2022.10.11-09.54.25:393][  5]LogMaterial: Display: Material /Game/Characters/Material_002.Material_002 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:396][  5]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: CF4F08CC17FC62959C17C00EAF7C87E71AE95BAA), compiling. 
+[2022.10.11-09.54.25:416][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:419][  5]LogMaterial: Display: Missing cached shadermap for Material_002 in PCD3D_SM5, Default, SM5 (DDC key hash: F0960A6B33F8529E542AAA86D9FDA4C52D7D42EA), compiling. 
+[2022.10.11-09.54.25:421][  5]LogMaterial: Display: Material /Game/Characters/Material_003.Material_003 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:423][  5]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 0466B6BD625E9F85BDB0704A5EE363E03FD795BD), compiling. 
+[2022.10.11-09.54.25:445][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:448][  5]LogMaterial: Display: Missing cached shadermap for Material_003 in PCD3D_SM5, Default, SM5 (DDC key hash: 21702932077B766906CEB821CC90C3A0B17C1B62), compiling. 
+[2022.10.11-09.54.25:450][  5]LogFbx: Triangulating skeletal mesh Sphere.001
+[2022.10.11-09.54.25:477][  5]LogFbx: Triangulating skeletal mesh Plane.001
+[2022.10.11-09.54.25:487][  5]LogMaterial: Display: Material /Game/Characters/Material_006.Material_006 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:488][  5]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: 4092BCB4C3DE1EEB4C687150D62EFB1D2313ACF1), compiling. 
+[2022.10.11-09.54.25:510][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:513][  5]LogMaterial: Display: Missing cached shadermap for Material_006 in PCD3D_SM5, Default, SM5 (DDC key hash: DEB09EF6D43A2CE5C94A0124E0C218AA1D5DC7C2), compiling. 
+[2022.10.11-09.54.25:514][  5]LogFbx: Triangulating skeletal mesh Plane.002
+[2022.10.11-09.54.25:522][  5]LogMaterial: Display: Material /Game/Characters/Material_005.Material_005 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:524][  5]LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: 19DB0B6D17A7CC881CD689CD420E1B00747792D4), compiling. 
+[2022.10.11-09.54.25:543][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:546][  5]LogMaterial: Display: Missing cached shadermap for Material_005 in PCD3D_SM5, Default, SM5 (DDC key hash: 867C55E1D979BAAE64F9222DEA2E0808EB935EA8), compiling. 
+[2022.10.11-09.54.25:547][  5]LogMaterial: Display: Material /Game/Characters/Material_013.Material_013 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:550][  5]LogMaterial: Display: Missing cached shadermap for Material_013 in PCD3D_SM5, Default, SM5 (DDC key hash: 825B371E626C5979AF3EB086C8CAF0B15AF3632A), compiling. 
+[2022.10.11-09.54.25:571][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:574][  5]LogMaterial: Display: Missing cached shadermap for Material_013 in PCD3D_SM5, Default, SM5 (DDC key hash: 6DFF925F3B0048AAEB58AC9974618F30EDDD9F62), compiling. 
+[2022.10.11-09.54.25:576][  5]LogFbx: Triangulating skeletal mesh Plane.041
+[2022.10.11-09.54.25:819][  5]LogMaterial: Display: Material /Game/Characters/Material_009.Material_009 needed to have new flag set bUsedWithSkeletalMesh !
+[2022.10.11-09.54.25:821][  5]LogMaterial: Display: Missing cached shadermap for Material_009 in PCD3D_SM5, Default, SM5 (DDC key hash: 918A729D781F511163D273D40E211028B67A6EAA), compiling. 
+[2022.10.11-09.54.25:839][  5]LogShaderCompilers: Display: Submitted 32 shader compile jobs with 'Low' priority
+[2022.10.11-09.54.25:841][  5]LogMaterial: Display: Missing cached shadermap for Material_009 in PCD3D_SM5, Default, SM5 (DDC key hash: F5A2D363CB1B0AF357CB9C3EBF5FD73073D7F02D), compiling. 
+[2022.10.11-09.54.25:842][  5]LogFbx: Triangulating skeletal mesh Plane.039
+[2022.10.11-09.54.25:849][  5]LogFbx: Triangulating skeletal mesh Sphere
+[2022.10.11-09.54.25:871][  5]LogFbx: Triangulating skeletal mesh Cube.002
+[2022.10.11-09.54.25:900][  5]LogFbx: Warning: Bones digested - 87  Depth of hierarchy - 14
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 0: Material=0, 1728 triangles
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 1: Material=1, 128 triangles
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 2: Material=2, 1812 triangles
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 3: Material=3, 7228 triangles
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 4: Material=4, 9389 triangles
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 5: Material=5, 3428 triangles
+[2022.10.11-09.54.26:335][  5]LogSkeletalMesh: Section 6: Material=6, 656 triangles
+[2022.10.11-09.54.26:349][  5]LogSkeletalMesh: Building Skeletal Mesh CharacterDummy1...
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 0: Material=0, 1728 triangles
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 1: Material=1, 128 triangles
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 2: Material=2, 1812 triangles
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 3: Material=3, 7228 triangles
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 4: Material=4, 9389 triangles
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 5: Material=5, 3428 triangles
+[2022.10.11-09.54.26:756][  5]LogSkeletalMesh: Section 6: Material=6, 656 triangles
+[2022.10.11-09.54.26:787][  5]LogSkeletalMesh: Built Skeletal Mesh [0.45s] /Game/Characters/CharacterDummy1.CharacterDummy1
+[2022.10.11-09.54.26:799][  5]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_0:PersistentLevel.SkeletalMeshActor_0.SkeletalMeshComponent0'
+[2022.10.11-09.54.26:799][  5]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-09.54.26:799][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-09.54.26:804][  5]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-09.54.26:805][  5]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-09.54.26:830][  5]FBXImport: Warning: The following bones are missing from the bind pose:
+spine.006_end  
+f_index.03.L_end  
+thumb.03.L_end  
+f_middle.03.L_end  
+f_ring.03.L_end  
+f_pinky.03.L_end  
+f_index.03.R_end  
+thumb.03.R_end  
+f_middle.03.R_end  
+f_ring.03.R_end  
+f_pinky.03.R_end  
+breast.L_end  
+breast.R_end  
+pelvis.L_end  
+pelvis.R_end  
+toe.L_end  
+heel.02.L_end  
+toe.R_end  
+heel.02.R_end  
+
+This can happen for bones that are not vert weighted. If they are not in the correct orientation after importing,
+please set the "Use T0 as ref pose" option or add them to the bind pose and reimport the skeletal mesh. 
+[2022.10.11-09.54.27:028][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:032][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:036][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:037][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 7
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 6
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 5
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 4
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 3
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 2
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:039][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:042][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:045][  9]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:182][ 10]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 6
+[2022.10.11-09.54.27:182][ 10]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 5
+[2022.10.11-09.54.27:182][ 10]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 4
+[2022.10.11-09.54.27:182][ 10]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 3
+[2022.10.11-09.54.27:182][ 10]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:298][ 11]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:336][ 12]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:407][ 13]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:444][ 13]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:457][ 13]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:498][ 13]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:512][ 13]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:552][ 13]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:567][ 13]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:607][ 13]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:620][ 13]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:663][ 13]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:675][ 13]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:716][ 13]LogShaderCompilers: Display: Submitted 28 shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.27:905][ 22]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 16
+[2022.10.11-09.54.27:905][ 22]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.27:994][ 27]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 14
+[2022.10.11-09.54.27:994][ 27]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 12
+[2022.10.11-09.54.27:994][ 27]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:092][ 33]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 10
+[2022.10.11-09.54.28:093][ 33]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:111][ 34]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 9
+[2022.10.11-09.54.28:111][ 34]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:159][ 37]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 8
+[2022.10.11-09.54.28:159][ 37]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:194][ 39]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 7
+[2022.10.11-09.54.28:194][ 39]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:234][ 41]LogSlate: Window 'Message Log' being destroyed
+[2022.10.11-09.54.28:248][ 41]LogSlate: Window 'Message Log' being destroyed
+[2022.10.11-09.54.28:276][ 43]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 6
+[2022.10.11-09.54.28:276][ 43]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.10.11-09.54.28:276][ 43]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:306][ 45]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.10.11-09.54.28:307][ 45]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:345][ 47]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 3
+[2022.10.11-09.54.28:345][ 47]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:356][ 48]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 2
+[2022.10.11-09.54.28:357][ 48]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:863][ 74]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.10.11-09.54.28:864][ 74]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.28:976][ 77]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 196
+[2022.10.11-09.54.28:977][ 77]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:084][ 80]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 186
+[2022.10.11-09.54.29:085][ 80]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:119][ 81]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 176
+[2022.10.11-09.54.29:119][ 81]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:153][ 82]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 166
+[2022.10.11-09.54.29:154][ 82]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:223][ 84]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 156
+[2022.10.11-09.54.29:223][ 84]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:316][ 88]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 146
+[2022.10.11-09.54.29:316][ 88]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:329][ 89]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 136
+[2022.10.11-09.54.29:330][ 89]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:348][ 90]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 126
+[2022.10.11-09.54.29:348][ 90]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:415][ 94]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 116
+[2022.10.11-09.54.29:415][ 94]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:697][108]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 106
+[2022.10.11-09.54.29:697][108]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:744][111]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 97
+[2022.10.11-09.54.29:744][111]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.29:847][117]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 88
+[2022.10.11-09.54.29:847][117]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.31:864][228]LogEditorViewport: Clicking on Actor (LMB): DeadBody_1_C (DeadBody_1)
+[2022.10.11-09.54.34:661][332]LogShaderCompilers: Display: Worker (11/13): shaders left to compile 80
+[2022.10.11-09.54.34:661][332]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.34:661][332]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 73
+[2022.10.11-09.54.34:662][332]LogShaderCompilers: Display: Started 7 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.35:169][350]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 66
+[2022.10.11-09.54.35:169][350]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 60
+[2022.10.11-09.54.35:169][350]LogShaderCompilers: Display: Started 12 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.35:226][351]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 54
+[2022.10.11-09.54.35:226][351]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.35:599][361]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 2
+[2022.10.11-09.54.35:599][361]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.36:216][387]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 1
+[2022.10.11-09.54.36:216][387]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2022.10.11-09.54.36:516][400]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 47
+[2022.10.11-09.54.36:516][400]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.36:566][402]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 43
+[2022.10.11-09.54.36:566][402]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.36:604][403]LogTemp: Repeating last play command: Selected Viewport
+[2022.10.11-09.54.36:627][403]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 39
+[2022.10.11-09.54.36:627][403]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.36:627][403]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2022.10.11-09.54.36:627][403]PIE: New page: PIE session: ThirdPersonExampleMap (Oct 11, 2022, 9:54:36 AM)
+[2022.10.11-09.54.36:630][403]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2022.10.11-09.54.36:633][403]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2022.10.11-09.54.36:634][403]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.11-09.54.36:669][403]LogPlayLevel: PIE: StaticDuplicateObject took: (0.034695s)
+[2022.10.11-09.54.36:671][403]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2022.10.11-09.54.36:675][403]LogPlayLevel: PIE: World Init took: (0.006243s)
+[2022.10.11-09.54.36:675][403]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.041379s)
+[2022.10.11-09.54.36:692][403]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.11-09.54.36:696][403]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 35
+[2022.10.11-09.54.36:696][403]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.36:696][403]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2022.10.11-09.54.36:696][403]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.11-09.54.36:697][403]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.11-09.54.36:697][403]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.11-09.54.36:697][403]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.11-09.54.36:697][403]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.11-09.54.36:697][403]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2022.10.11-09.54.36:697][403]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.11-09.54.36:697][403]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.11-09.54.36:698][403]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.11-09.54.36:698][403]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.11-09.54.36:698][403]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.11-09.54.36:698][403]LogAudioMixer: Display: Initializing audio mixer.
+[2022.10.11-09.54.36:704][403]LogAudioMixer: Display: 0: FrontLeft
+[2022.10.11-09.54.36:704][403]LogAudioMixer: Display: 1: FrontRight
+[2022.10.11-09.54.36:803][403]LogAudioMixer: Display: Using Audio Device Headphones (Realtek(R) Audio)
+[2022.10.11-09.54.36:803][403]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.11-09.54.36:803][403]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.11-09.54.36:803][403]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.11-09.54.36:805][403]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2022.10.11-09.54.36:805][403]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2022.10.11-09.54.36:805][403]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2022.10.11-09.54.36:807][403]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2022.10.11-09.54.36:807][403]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2022.10.11-09.54.36:807][403]LogInit: FAudioDevice initialized.
+[2022.10.11-09.54.36:807][403]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2022.10.11-09.54.36:830][403]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2022.10.11-09.54.36:837][403]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2022.10.11-09.54.36
+[2022.10.11-09.54.36:838][403]LogWorld: Bringing up level for play took: 0.005537
+[2022.10.11-09.54.36:839][403]LogOnline: OSS: Creating online subsystem instance for: :Context_6
+[2022.10.11-09.54.36:848][403]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0008 seconds. Added 20 classes and 0 folders.
+[2022.10.11-09.54.36:850][403]PIE: Server logged in
+[2022.10.11-09.54.36:855][403]PIE: Play in editor total start time 0.232 seconds.
+[2022.10.11-09.54.37:098][408]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 32
+[2022.10.11-09.54.37:098][408]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.37:549][433]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 29
+[2022.10.11-09.54.37:549][433]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.37:774][444]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 26
+[2022.10.11-09.54.37:774][444]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.38:346][478]LogShaderCompilers: Display: Worker (5/13): shaders left to compile 23
+[2022.10.11-09.54.38:346][478]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:055][519]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 21
+[2022.10.11-09.54.39:055][519]LogShaderCompilers: Display: Worker (12/13): shaders left to compile 19
+[2022.10.11-09.54.39:055][519]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:055][519]LogShaderCompilers: Display: Worker (6/13): shaders left to compile 17
+[2022.10.11-09.54.39:055][519]LogShaderCompilers: Display: Worker (10/13): shaders left to compile 15
+[2022.10.11-09.54.39:055][519]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:391][537]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 13
+[2022.10.11-09.54.39:391][537]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:392][537]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 11
+[2022.10.11-09.54.39:398][537]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:399][537]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 10
+[2022.10.11-09.54.39:399][537]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:431][538]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 9
+[2022.10.11-09.54.39:431][538]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:759][556]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 8
+[2022.10.11-09.54.39:759][556]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.39:970][568]LogShaderCompilers: Display: Worker (7/13): shaders left to compile 7
+[2022.10.11-09.54.39:970][568]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.40:110][576]LogShaderCompilers: Display: Worker (1/13): shaders left to compile 6
+[2022.10.11-09.54.40:110][576]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.40:181][580]LogShaderCompilers: Display: Worker (9/13): shaders left to compile 5
+[2022.10.11-09.54.40:181][580]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.40:277][585]LogShaderCompilers: Display: Worker (3/13): shaders left to compile 4
+[2022.10.11-09.54.40:278][585]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.40:299][586]LogShaderCompilers: Display: Worker (4/13): shaders left to compile 3
+[2022.10.11-09.54.40:299][586]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.40:315][587]LogShaderCompilers: Display: Worker (2/13): shaders left to compile 2
+[2022.10.11-09.54.40:316][587]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.40:456][594]LogShaderCompilers: Display: Worker (8/13): shaders left to compile 1
+[2022.10.11-09.54.40:457][594]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2022.10.11-09.54.45:538][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-09.54.45:538][894]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2022.10.11-09.54.45:539][894]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2022.10.11-09.54.45:539][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-09.54.45:553][894]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2022.10.11-09.54.45:595][894]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.11-09.54.45:602][894]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.11-09.54.45:602][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.11-09.54.45:604][894]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2022.10.11-09.54.45:609][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.11-09.54.45:612][894]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.11-09.54.45:661][895]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2022.10.11-09.55.24:628][149]LogAssetEditorSubsystem: Opening Asset editor for PhysicsAsset /Game/Characters/CharacterDummy1_PhysicsAsset.CharacterDummy1_PhysicsAsset
+[2022.10.11-09.55.24:756][149]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 8 classes and 3 folders.
+[2022.10.11-09.55.24:757][149]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2022.10.11-09.55.24:761][149]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/EditorMaterials/AssetViewer/EpicQuadPanorama_CC+EV1.EpicQuadPanorama_CC+EV1', its maximum texture size has been explicitly set to 512.
+[2022.10.11-09.55.24:824][149]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Engine/MapTemplates/Sky/SunsetAmbientCubemap.SunsetAmbientCubemap', its maximum texture size has been explicitly set to 512.
+[2022.10.11-09.55.24:899][149]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.55.24:901][149]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2022.10.11-09.55.25:119][149]LogSlate: Took 0.000325 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.11-09.55.25:153][149]LogRenderer: Reallocating scene render targets to support 968x660 Format 10 NumSamples 1 (Frame:1).
+[2022.10.11-09.56.45:733][623]Cmd: TRANSACTION UNDO
+[2022.10.11-09.56.45:733][623]LogEditorTransaction: Undo Move Element
+[2022.10.11-09.56.45:789][623]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.14:966][202]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Characters/CharacterDummy1_Skeleton.CharacterDummy1_Skeleton
+[2022.10.11-09.57.14:970][202]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.37:962][484]Cmd: TRANSACTION UNDO
+[2022.10.11-09.57.37:962][484]LogEditorTransaction: Undo Move Element
+[2022.10.11-09.57.38:081][484]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.38:088][484]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.38:651][505]Cmd: TRANSACTION UNDO
+[2022.10.11-09.57.38:651][505]LogEditorTransaction: Undo Move Element
+[2022.10.11-09.57.38:759][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.38:765][505]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.45:342][867]Cmd: TRANSACTION UNDO
+[2022.10.11-09.57.45:342][867]LogEditorTransaction: Undo Move Element
+[2022.10.11-09.57.45:455][867]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.57.45:476][867]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.59.42:069][297]Cmd: TRANSACTION UNDO
+[2022.10.11-09.59.42:069][297]LogEditorTransaction: Undo Delete Bodies
+[2022.10.11-09.59.42:180][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.59.42:186][297]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.59.50:375][720]Cmd: TRANSACTION UNDO
+[2022.10.11-09.59.50:375][720]LogEditorTransaction: Undo Delete Bodies Below
+[2022.10.11-09.59.50:481][720]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-09.59.50:488][720]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.01.48:688][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0'
+[2022.10.11-10.01.48:688][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.10.11-10.01.48:688][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.DeadBody_2.CharacterMesh0'
+[2022.10.11-10.01.48:689][739]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0'
+[2022.10.11-10.02.55:478][323]Cmd: TRANSACTION UNDO
+[2022.10.11-10.02.55:479][323]LogEditorTransaction: Undo Add New Primitive
+[2022.10.11-10.02.55:586][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.02.55:592][323]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.03.09:125][ 93]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:133][ 94]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:150][ 95]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:166][ 96]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:183][ 97]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:200][ 98]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:217][ 99]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:233][100]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:250][101]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:267][102]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:284][103]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:301][104]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:317][105]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:333][106]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:350][107]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:367][108]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:384][109]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:400][110]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:416][111]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:433][112]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:449][113]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:466][114]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:483][115]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:500][116]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:516][117]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:533][118]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:550][119]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:566][120]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:584][121]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:601][122]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:617][123]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:634][124]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:650][125]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:666][126]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:683][127]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:700][128]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:716][129]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:733][130]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:750][131]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:766][132]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:783][133]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:801][134]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:817][135]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:833][136]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:850][137]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:866][138]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:884][139]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:901][140]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:917][141]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:933][142]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:950][143]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:966][144]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:982][145]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.09:999][146]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:016][147]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:033][148]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:049][149]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:067][150]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:083][151]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:100][152]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:117][153]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:134][154]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:151][155]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:168][156]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:183][157]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:200][158]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:217][159]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:233][160]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:250][161]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:266][162]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:283][163]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:300][164]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:316][165]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:333][166]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:349][167]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:367][168]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:383][169]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:400][170]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:417][171]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:433][172]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:449][173]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:466][174]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:484][175]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:499][176]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:516][177]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:533][178]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:550][179]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:567][180]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.10:583][181]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:330][414]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:347][415]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:363][416]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:379][417]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:397][418]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:413][419]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:430][420]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:446][421]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:463][422]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:480][423]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:497][424]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:513][425]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:529][426]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:546][427]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:563][428]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:579][429]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:596][430]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:613][431]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:629][432]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:646][433]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:663][434]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:680][435]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:696][436]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:713][437]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:730][438]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:746][439]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:763][440]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:780][441]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:796][442]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:813][443]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.17:830][444]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.26:592][954]Cmd: TRANSACTION UNDO
+[2022.10.11-10.03.26:592][954]LogEditorTransaction: Undo Move Element
+[2022.10.11-10.03.26:707][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.03.26:713][954]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.03.27:329][977]Cmd: TRANSACTION UNDO
+[2022.10.11-10.03.27:329][977]LogEditorTransaction: Undo Move Element
+[2022.10.11-10.03.27:451][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.03.27:456][977]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_6:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2022.10.11-10.03.57:893][350]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.57:910][351]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.57:926][352]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.57:943][353]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.57:960][354]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.57:977][355]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.57:993][356]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:010][357]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:027][358]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:044][359]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:060][360]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:077][361]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:094][362]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:110][363]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:127][364]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:144][365]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:160][366]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:177][367]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:193][368]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:210][369]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:227][370]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.03.58:244][371]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:858][288]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:874][289]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:891][290]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:908][291]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:924][292]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:940][293]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:958][294]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.31:974][295]LogSkinnedMeshComp: Warning: GetBoneTransform : BoneIndex(-1) out of range of SpaceBases for /Engine/Transient.World_5:PersistentLevel.AnimationEditorPreviewActor_0.PhysicsAssetEditorSkeletalMeshComponent_0 (SkeletalMesh /Game/Characters/CharacterDummy1.CharacterDummy1)
+[2022.10.11-10.04.33:775][398]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.11-10.04.33:775][398]LogWindows: Windows GetLastError: The operation completed successfully. (0)
